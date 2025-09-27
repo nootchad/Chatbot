@@ -1,0 +1,23 @@
+Mini Update para Usuarios Premium  
+
+Se han agregado nuevos comandos exclusivos para usuarios premium que permiten controlar a usuarios no premium en el servidor.  
+
+Comandos de Control:  
+.bring - Teletransporta al usuario no premium hacia el usuario premium  
+.kick [razón] - Expulsa al usuario no premium con una razón opcional  
+.freeze - Congela al usuario no premium impidiendo que se mueva  
+.unfreeze - Descongela al usuario no premium restaurando su movimiento  
+
+Comandos de Movimiento:  
+.invert - Invierte los controles de movimiento del usuario no premium  
+.uninvert - Restaura los controles normales del usuario no premium  
+.fling - Lanza al usuario no premium por el aire con fuerza aleatoria  
+
+Comandos de Pantalla:  
+.blackscreen - Cubre la pantalla del usuario no premium con negro total  
+.unblackscreen - Restaura la pantalla normal del usuario no premium  
+.scare - Muestra una imagen de susto a pantalla completa con sonido y efectos  
+
+Comandos de Interacción:  
+.say [texto] - Hace que el usuario no premium escriba el texto especificado en el chat  
+.kill - Elimina al personaje del usuario no premium
